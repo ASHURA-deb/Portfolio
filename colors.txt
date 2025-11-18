@@ -1,0 +1,35 @@
+:root[data-theme="light"] {
+  --text: #02312e;
+  --background: #e1fefb;
+  --primary: #069387;
+  --secondary: #5da8f8;
+  --accent: #0942d3;
+}
+:root[data-theme="dark"] {
+  --text: #cefdfa;
+  --background: #011e1b;
+  --primary: #6cf9ed;
+  --secondary: #0752a2;
+  --accent: #2c66f6;
+}
+
+
+# Tailwind
+light mode
+colors: {
+ 'text': '#02312e',
+ 'background': '#e1fefb',
+ 'primary': '#069387',
+ 'secondary': '#5da8f8',
+ 'accent': '#0942d3',
+},
+
+dark mode
+colors: {
+ 'text': '#cefdfa',
+ 'background': '#011d1a',
+ 'primary': '#6ef9ed',
+ 'secondary': '#0751a1',
+ 'accent': '#2e68f6',
+},
+
